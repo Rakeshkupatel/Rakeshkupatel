@@ -5,11 +5,8 @@
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47tubv34ui8630hbv7ke28ds2laishdp8310necstd&rid=giphy.gif&ct=g"
 
 - 🌱 I’m currently learning **JEE,SQl**
-
 - 💬 Ask me about **Java**
-
 - 📫 How to reach me **rakeshkupatel2003@gmail.com**
-
 - ⚡ Fun fact **I'm good in cooking🍳**
 
 <h3 align="left">Connect with me:</h3>
