@@ -1,4 +1,4 @@
-![LOG](https://github.com/Rakeshkupatel/Rakeshkupatel/blob/main/My%20project-1%20(2).png)
+![LOG](https://github.com/Rakeshkupatel/Rakeshkupatel/blob/main/it-specialist-checking-code-computer-dark-office-night.jpg)
 <h1 align="center">Hi 👋, I'm Rakesh Kumar Patel</h1>
 <h3 align="center">A passionate Java developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47tubv34ui8630hbv7ke28ds2laishdp8310necstd&rid=giphy.gif&ct=g"
