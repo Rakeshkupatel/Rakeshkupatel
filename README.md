@@ -1,9 +1,9 @@
 ![LOG](https://github.com/Rakeshkupatel/Rakeshkupatel/blob/main/it-specialist-checking-code-computer-dark-office-night.jpg)
 <h1 align="center">Hi 👋, I'm Rakesh Kumar Patel</h1>
-<h3 align="center">A passionate Python  developer from India</h3>
+<h3 align="center">A passionate Java & Python  developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47tubv34ui8630hbv7ke28ds2laishdp8310necstd&rid=giphy.gif&ct=g"
 
-- 🌱 I’m currently learning **django,mongodb**
+- 🌱 I’m currently learning **angular**
 - 💬 Ask me about **Python and Java**
 - 📫 How to reach me **rakeshkupatel2003@gmail.com**
 - ⚡ Fun fact **I'm good in cooking🍳**
